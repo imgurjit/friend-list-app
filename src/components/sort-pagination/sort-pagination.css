@@ -1,0 +1,17 @@
+.sort-icon {
+  color: gray;
+}
+
+.sorting {
+  margin-left: 10px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.pagenumber {
+  margin-left: 10px;
+  margin-right: 10px;
+}

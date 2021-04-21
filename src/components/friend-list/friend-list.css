@@ -1,0 +1,43 @@
+.friend-box {
+  border: 1px solid #ccc;
+  padding: 12px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.empty-box {
+  border: 1px solid #ccc;
+  padding: 12px 20px;
+  display: flex;
+  justify-content: center;
+  font-size: 13px;
+}
+
+.relation-text {
+  padding-top: 5px;
+  color: gray;
+  font-size: 12px;
+}
+
+.icons {
+  border: 2px solid lightgray;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.star-icon {
+  color: gray;
+}
+
+/* .friend-info {
+  float: left;
+} */
+
+.friend-actions {
+  display: flex;
+}
+
+.favourite {
+  margin-right: 10px;
+}
